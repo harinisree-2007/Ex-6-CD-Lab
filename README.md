@@ -10,7 +10,12 @@ To write a program to implement the back end of the compiler.
 4. Execute the program.
 5. Target code for the given statement is produced.
 6. Stop the program.
-# PROGRAM
-# OUTPUT
+# PROGRAM:
+
+
+# OUTPUT:
+<img width="1746" height="901" alt="image" src="https://github.com/user-attachments/assets/1376630d-2cfd-4483-a9a4-c32e4d3b05cc" />
+
 # Result
+
 The back end of the compiler is implemented successfully, and the output is verified.
